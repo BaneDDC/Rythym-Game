@@ -1,830 +1,1464 @@
 {
-  "Uncategorized": [
+  "Blues": [
     {
-      "title": "Hold on Loosely",
-      "artist": ".38 Special",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/.38%20Special%20-%20Hold%20on%20Loosely.zip"
-    },
-    {
-      "title": ".gitattributes",
-      "artist": "Unknown Artist",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/.gitattributes.zip"
-    },
-    {
-      "title": "I Ran",
-      "artist": "A Flock of Seagulls",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/A%20Flock%20of%20Seagulls%20-%20I%20Ran%20%28So%20Far%20Away%29.zip",
-      "charter": "So Far Away"
-    },
-    {
-      "title": "Balls to the Wall",
-      "artist": "Accept",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Accept%20-%20Balls%20to%20the%20Wall.zip"
-    },
-    {
-      "title": "No Excuses",
-      "artist": "Alice In Chains",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Alice%20In%20Chains%20-%20No%20Excuses.zip"
-    },
-    {
-      "title": "Six",
-      "artist": "All That Remains",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/All%20That%20Remains%20-%20Six.zip"
-    },
-    {
-      "title": "Behind the Mask",
-      "artist": "Anarchy Club",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Anarchy%20Club%20-%20Behind%20the%20Mask.zip"
-    },
-    {
-      "title": "Collide",
-      "artist": "Anarchy Club",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Anarchy%20Club%20-%20Collide.zip"
-    },
-    {
-      "title": "Trippolette",
-      "artist": "Andraleia Buch",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Andraleia%20Buch%20-%20Trippolette.zip"
-    },
-    {
-      "title": "Caught in a Mosh",
-      "artist": "Anthrax",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Anthrax%20-%20Caught%20in%20a%20Mosh.zip"
-    },
-    {
-      "title": "The Breaking Wheel",
-      "artist": "Artillery",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Artillery%20-%20The%20Breaking%20Wheel.zip"
-    },
-    {
-      "title": "Heat of the Moment",
-      "artist": "Asia",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Asia%20-%20Heat%20of%20the%20Moment.zip"
-    },
-    {
-      "title": "Cochise",
-      "artist": "Audioslave",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Audioslave%20-%20Cochise.zip"
-    },
-    {
-      "title": "Infected",
-      "artist": "Bad Religion",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Bad%20Religion%20-%20Infected.zip"
-    },
-    {
-      "title": "Push Push",
-      "artist": "Bang Camaro",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Bang%20Camaro%20-%20Push%20Push%20%28Lady%20Lightning%29.zip",
-      "charter": "Lady Lightning"
-    },
-    {
-      "title": "Lonely Is the Night",
-      "artist": "Billy Squier",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Billy%20Squier%20-%20Lonely%20Is%20the%20Night.zip"
-    },
-    {
-      "title": "Fire it Up",
-      "artist": "Black Label Society",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Black%20Label%20Society%20-%20Fire%20it%20Up.zip"
-    },
-    {
-      "title": "Iron Man",
-      "artist": "Black Sabbath",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Black%20Sabbath%20-%20Iron%20Man.zip"
-    },
-    {
-      "title": "Godzilla",
-      "artist": "Blue Öyster Cult",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Blue%20%C3%96yster%20Cult%20-%20Godzilla.zip"
-    },
-    {
-      "title": "Turn the Page",
-      "artist": "Bob Seger and the Silver Bullet Band",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Bob%20Seger%20and%20the%20Silver%20Bullet%20Band%20-%20Turn%20the%20Page%20%28Live%29.zip",
-      "charter": "Live"
-    },
-    {
-      "title": "More Than a Feeling",
-      "artist": "Boston",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Boston%20-%20More%20Than%20a%20Feeling.zip"
-    },
-    {
-      "title": "Gemini",
-      "artist": "Brian Kahanek",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Brian%20Kahanek%20-%20Gemini.zip"
-    },
-    {
-      "title": "Jordan",
-      "artist": "Buckethead",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Buckethead%20-%20Jordan.zip"
-    },
-    {
-      "title": "Heart Full of Black",
-      "artist": "Burning Brides",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Burning%20Brides%20-%20Heart%20Full%20of%20Black.zip"
-    },
-    {
-      "title": "Albatross",
-      "artist": "Corrosion of Conformity",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Corrosion%20of%20Conformity%20-%20Albatross.zip"
-    },
-    {
-      "title": "Radium Eyes",
-      "artist": "Count Zero",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Count%20Zero%20-%20Radium%20Eyes.zip"
-    },
-    {
-      "title": "Sail Your Ship By",
-      "artist": "Count Zero",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Count%20Zero%20-%20Sail%20Your%20Ship%20By.zip"
-    },
-    {
-      "title": "Crossroads",
-      "artist": "Cream",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Cream%20-%20Crossroads.zip"
-    },
-    {
-      "title": "Ziggy Stardust",
-      "artist": "David Bowie",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/David%20Bowie%20-%20Ziggy%20Stardust.zip"
-    },
-    {
-      "title": "Police Truck",
-      "artist": "Dead Kennedys",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Dead%20Kennedys%20-%20Police%20Truck.zip"
-    },
-    {
-      "title": "Smoke on the Water",
-      "artist": "Deep Purple",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Deep%20Purple%20-%20Smoke%20on%20the%20Water.zip"
-    },
-    {
-      "title": "Thunderhorse",
-      "artist": "Dethklok",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Dethklok%20-%20Thunderhorse.zip"
-    },
-    {
-      "title": "Am I Evil",
-      "artist": "Diamond Head",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Diamond%20Head%20-%20Am%20I%20Evil.zip"
-    },
-    {
-      "title": "Fly on the Wall",
-      "artist": "Din",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Din%20-%20Fly%20on%20the%20Wall.zip"
-    },
-    {
-      "title": "Holy Diver",
-      "artist": "Dio",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Dio%20-%20Holy%20Diver.zip"
-    },
-    {
-      "title": "Arterial Black",
-      "artist": "Drist",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Drist%20-%20Arterial%20Black%20%28Co-op%29.zip",
-      "charter": "Co-op"
-    },
-    {
-      "title": "Arterial Black",
-      "artist": "Drist",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Drist%20-%20Arterial%20Black.zip"
-    },
-    {
-      "title": "Decontrol",
-      "artist": "Drist",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Drist%20-%20Decontrol.zip"
-    },
-    {
-      "title": "Shakin",
-      "artist": "Eddie Money",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Eddie%20Money%20-%20Shakin.zip"
-    },
-    {
-      "title": "The New Black",
-      "artist": "Every Time I Die",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Every%20Time%20I%20Die%20-%20The%20New%20Black.zip"
-    },
-    {
-      "title": "Play with Me",
-      "artist": "Extreme",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Extreme%20-%20Play%20with%20Me.zip"
-    },
-    {
-      "title": "Bathroom Wall",
-      "artist": "Faster Pussycat",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Faster%20Pussycat%20-%20Bathroom%20Wall.zip"
-    },
-    {
-      "title": "Stacked Actors",
-      "artist": "Foo Fighters",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Foo%20Fighters%20-%20Stacked%20Actors.zip"
-    },
-    {
-      "title": "Take Me Out",
-      "artist": "Franz Ferdinand",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Franz%20Ferdinand%20-%20Take%20Me%20Out.zip"
-    },
-    {
-      "title": "Get Ready 2 Rokk",
-      "artist": "Freezepop",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Freezepop%20-%20Get%20Ready%202%20Rokk.zip"
-    },
-    {
-      "title": "Less Talk More Rokk",
-      "artist": "Freezepop",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Freezepop%20-%20Less%20Talk%20More%20Rokk%20%28Co-op%29.zip",
-      "charter": "Co-op"
-    },
-    {
-      "title": "Less Talk More Rokk",
-      "artist": "Freezepop",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Freezepop%20-%20Less%20Talk%20More%20Rokk.zip"
-    },
-    {
-      "title": "Cheat on the Church",
-      "artist": "Graveyard BBQ",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Graveyard%20BBQ%20-%20Cheat%20on%20the%20Church.zip"
-    },
-    {
-      "title": "Graveyard Shift",
-      "artist": "Gurney",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Gurney%20-%20Graveyard%20Shift.zip"
-    },
-    {
-      "title": "Unsung",
-      "artist": "Helmet",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Helmet%20-%20Unsung.zip"
-    },
-    {
-      "title": "Hey",
-      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Honest%20Bob%20and%20the%20Factory-to-Dealer%20Incentives%20-%20Hey.zip"
-    },
-    {
-      "title": "Soy Bomb",
-      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Honest%20Bob%20and%20the%20Factory-to-Dealer%20Incentives%20-%20Soy%20Bomb%20%28Co-op%29.zip",
-      "charter": "Co-op"
-    },
-    {
-      "title": "Soy Bomb",
-      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Honest%20Bob%20and%20the%20Factory-to-Dealer%20Incentives%20-%20Soy%20Bomb.zip"
-    },
-    {
-      "title": "Stellar",
-      "artist": "Incubus",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Incubus%20-%20Stellar.zip"
-    },
-    {
-      "title": "Wrathchild",
-      "artist": "Iron Maiden",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Iron%20Maiden%20-%20Wrathchild.zip"
-    },
-    {
-      "title": "I Love Rock 'n Roll",
-      "artist": "Joan Jett & the Blackhearts",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Joan%20Jett%20%26%20the%20Blackhearts%20-%20I%20Love%20Rock%20%27n%20Roll.zip"
-    },
-    {
-      "title": "Hell Bent for Leather",
-      "artist": "Judas Priest",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Judas%20Priest%20-%20Hell%20Bent%20for%20Leather.zip"
-    },
-    {
-      "title": "The Hellion & Electric Eye",
-      "artist": "Judas Priest",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Judas%20Priest%20-%20The%20Hellion%20%26%20Electric%20Eye.zip"
-    },
-    {
-      "title": "You've Got Another Thing Comin'",
-      "artist": "Judas Priest",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Judas%20Priest%20-%20You%27ve%20Got%20Another%20Thing%20Comin%27.zip"
-    },
-    {
-      "title": "Ballroom Blitz",
-      "artist": "Krokus",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Krokus%20-%20Ballroom%20Blitz.zip"
-    },
-    {
-      "title": "Demon Cleaner",
-      "artist": "Kyuss",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Kyuss%20-%20Demon%20Cleaner.zip"
-    },
+      "title": "Texas Flood",
+      "artist": "Stevie Ray Vaughan (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Stevie%20Ray%20Vaughan%20-%20Texas%20Flood.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Texas Flood",
+      "genre": "Texas Blues",
+      "year": "1983"
+    }
+  ],
+  "Comedy": [
     {
       "title": "Because, It's Midnite",
       "artist": "Limozeen",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Limozeen%20-%20Because%2C%20It%27s%20Midnite.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Limozeen%20-%20Because%2C%20It%27s%20Midnite.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Strong Bad Sings (and Other Type Hits)",
+      "genre": "Comedy",
+      "year": "2003"
+    }
+  ],
+  "Crossover Thrash": [
+    {
+      "title": "War Inside My Head",
+      "artist": "Suicidal Tendencies",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Suicidal%20Tendencies%20-%20War%20Inside%20My%20Head.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Join the Army",
+      "genre": "Crossover Thrash",
+      "year": "1987"
+    }
+  ],
+  "Grunge": [
+    {
+      "title": "No Excuses",
+      "artist": "Alice In Chains",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Alice%20In%20Chains%20-%20No%20Excuses.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Jar of Flies",
+      "genre": "Grunge",
+      "year": "1994"
+    }
+  ],
+  "Hard Rock": [
+    {
+      "title": "Hold On Loosely",
+      "artist": ".38 Special (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/.38%20Special%20-%20Hold%20on%20Loosely.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Wild-Eyed Southern Boys",
+      "genre": "Hard Rock",
+      "year": "1981"
     },
     {
-      "title": "Numb",
-      "artist": "Linkin Park",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Linkin%20Park%20-%20Numb%20%28Capta1n_GuitarHero%2C%20Harmonix%29.zip",
-      "charter": "Capta1n_GuitarHero, Harmonix"
+      "title": "Cochise",
+      "artist": "Audioslave (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Audioslave%20-%20Cochise.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Audioslave",
+      "genre": "Hard Rock",
+      "year": "2002"
     },
     {
-      "title": "Beautiful Mourning",
-      "artist": "Machine Head",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Machine%20Head%20-%20Beautiful%20Mourning.zip"
+      "title": "Push Push (Lady Lightning)",
+      "artist": "Bang Camaro",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Bang%20Camaro%20-%20Push%20Push%20%28Lady%20Lightning%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Bang Camaro",
+      "genre": "Hard Rock",
+      "year": "2007"
     },
     {
-      "title": "Farewell Myth",
-      "artist": "Made in Mexico",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Made%20in%20Mexico%20-%20Farewell%20Myth.zip"
+      "title": "Heart Full of Black",
+      "artist": "Burning Brides (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Burning%20Brides%20-%20Heart%20Full%20of%20Black.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Leave No Ashes",
+      "genre": "Hard Rock",
+      "year": "2004"
     },
     {
-      "title": "Yes We Can",
-      "artist": "Made in Mexico",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Made%20in%20Mexico%20-%20Yes%20We%20Can.zip"
+      "title": "Crossroads",
+      "artist": "Cream (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Cream%20-%20Crossroads.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Wheels of Fire",
+      "genre": "Hard Rock",
+      "year": "1968"
     },
     {
-      "title": "Blood and Thunder",
-      "artist": "Mastodon",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Mastodon%20-%20Blood%20and%20Thunder.zip"
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Deep%20Purple%20-%20Smoke%20on%20the%20Water.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Machine Head",
+      "genre": "Hard Rock",
+      "year": "1972"
     },
     {
-      "title": "Symphony of Destruction",
-      "artist": "Megadeth",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Megadeth%20-%20Symphony%20of%20Destruction.zip"
+      "title": "Holy Diver",
+      "artist": "Dio (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Dio%20-%20Holy%20Diver.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Holy Diver",
+      "genre": "Hard Rock",
+      "year": "1983"
     },
     {
-      "title": "Red Lottery",
-      "artist": "Megasus",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Megasus%20-%20Red%20Lottery.zip"
-    },
-    {
-      "title": "Evil",
-      "artist": "Mercyful Fate",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Mercyful%20Fate%20-%20Evil.zip"
+      "title": "I Love Rock & Roll",
+      "artist": "Joan Jett & the Blackhearts (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Joan%20Jett%20%26%20the%20Blackhearts%20-%20I%20Love%20Rock%20%27n%20Roll.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "I Love Rock 'n Roll",
+      "genre": "Hard Rock",
+      "year": "1981"
     },
     {
       "title": "Armed and Ready",
       "artist": "Michael Schenker Group",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Michael%20Schenker%20Group%20-%20Armed%20and%20Ready.zip"
-    },
-    {
-      "title": "Guitar Hero",
-      "artist": "Monkey Steals the Peach",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Monkey%20Steals%20the%20Peach%20-%20Guitar%20Hero.zip"
-    },
-    {
-      "title": "Ace of Spades",
-      "artist": "Motörhead",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Mot%C3%B6rhead%20-%20Ace%20of%20Spades.zip"
-    },
-    {
-      "title": "Kicked to the Curb",
-      "artist": "Noble Rot",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Noble%20Rot%20-%20Kicked%20to%20the%20Curb.zip"
-    },
-    {
-      "title": "Only a Lad",
-      "artist": "Oingo Boingo",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Oingo%20Boingo%20-%20Only%20a%20Lad.zip"
-    },
-    {
-      "title": "Drink Up",
-      "artist": "Ounce of Self",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Ounce%20of%20Self%20-%20Drink%20Up.zip"
-    },
-    {
-      "title": "Bark at the Moon",
-      "artist": "Ozzy Osbourne",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Ozzy%20Osbourne%20-%20Bark%20at%20the%20Moon.zip"
-    },
-    {
-      "title": "Cowboys from Hell",
-      "artist": "Pantera",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Pantera%20-%20Cowboys%20from%20Hell.zip"
-    },
-    {
-      "title": "Numbers (I Can Only Count to Four)",
-      "artist": "Psychostick",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Psychostick%20-%20Numbers%20%28I%20Can%20Only%20Count%20to%20Four%29%20%28Miscellany%29.zip",
-      "charter": "Miscellany"
-    },
-    {
-      "title": "Killer Queen",
-      "artist": "Queen",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Queen%20-%20Killer%20Queen.zip"
-    },
-    {
-      "title": "Stone Cold Crazy",
-      "artist": "Queen",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Queen%20-%20Stone%20Cold%20Crazy.zip"
-    },
-    {
-      "title": "No One Knows",
-      "artist": "Queens of the Stone Age",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Queens%20of%20the%20Stone%20Age%20-%20No%20One%20Knows.zip"
-    },
-    {
-      "title": "(Bang Your Head) Metal Health",
-      "artist": "Quiet Riot",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Quiet%20Riot%20-%20%28Bang%20Your%20Head%29%20Metal%20Health.zip"
-    },
-    {
-      "title": "I Wanna Be Sedated",
-      "artist": "Ramones",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Ramones%20-%20I%20Wanna%20Be%20Sedated.zip"
-    },
-    {
-      "title": "Round and Round",
-      "artist": "Ratt",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Ratt%20-%20Round%20and%20Round.zip"
-    },
-    {
-      "title": "Higher Ground",
-      "artist": "Red Hot Chili Peppers",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Red%20Hot%20Chili%20Peppers%20-%20Higher%20Ground.zip"
-    },
-    {
-      "title": "Mother of Mercy",
-      "artist": "Samhain",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Samhain%20-%20Mother%20of%20Mercy.zip"
-    },
-    {
-      "title": "The Warrior",
-      "artist": "Scandal",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Scandal%20-%20The%20Warrior.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Schenker%20Group%20-%20Armed%20and%20Ready.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "The Michael Schenker Group",
+      "genre": "Hard Rock",
+      "year": "1980"
     },
     {
       "title": "No One Like You",
-      "artist": "Scorpions",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Scorpions%20-%20No%20One%20Like%20You.zip"
+      "artist": "Scorpions (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Scorpions%20-%20No%20One%20Like%20You.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Blackout",
+      "genre": "Hard Rock",
+      "year": "1982"
     },
     {
-      "title": "The Light That Blinds",
-      "artist": "Shadows Fall",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Shadows%20Fall%20-%20The%20Light%20That%20Blinds.zip"
-    },
-    {
-      "title": "All of This",
-      "artist": "Shaimus",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Shaimus%20-%20All%20of%20This.zip"
-    },
-    {
-      "title": "18 and Life",
-      "artist": "Skid Row",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Skid%20Row%20-%2018%20and%20Life.zip"
-    },
-    {
-      "title": "War Ensemble",
-      "artist": "Slayer",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Slayer%20-%20War%20Ensemble.zip"
-    },
-    {
-      "title": "Mommy's Little Monster",
-      "artist": "Social Distortion",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Social%20Distortion%20-%20Mommy%27s%20Little%20Monster%20%28Live%29.zip",
-      "charter": "Live"
-    },
-    {
-      "title": "Texas Flood",
-      "artist": "Stevie Ray Vaughan",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Stevie%20Ray%20Vaughan%20-%20Texas%20Flood.zip"
-    },
-    {
-      "title": "Trogdor",
-      "artist": "Strong Bad",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Strong%20Bad%20-%20Trogdor%20%28Co-op%29.zip",
-      "charter": "Co-op"
-    },
-    {
-      "title": "Trogdor",
-      "artist": "Strong Bad",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Strong%20Bad%20-%20Trogdor.zip"
-    },
-    {
-      "title": "War Inside My Head",
-      "artist": "Suicidal Tendencies",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Suicidal%20Tendencies%20-%20War%20Inside%20My%20Head.zip"
-    },
-    {
-      "title": "Fat Lip",
-      "artist": "Sum 41",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Sum%2041%20-%20Fat%20Lip.zip"
-    },
-    {
-      "title": "Toxicity",
-      "artist": "System of a Down",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/System%20of%20a%20Down%20-%20Toxicity.zip"
-    },
-    {
-      "title": "Elephant Bones",
-      "artist": "That Handsome Devil",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/That%20Handsome%20Devil%20-%20Elephant%20Bones.zip"
-    },
-    {
-      "title": "Callout",
-      "artist": "The Acro-Brats",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Acro-Brats%20-%20Callout.zip"
+      "title": "Laughtrack (Co-op)",
+      "artist": "The Acro-brats",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Acro-Brats%20-%20Laughtrack%20%28Co-op%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "...Go Down Swinging!",
+      "genre": "Hard Rock",
+      "year": "2006"
     },
     {
       "title": "Laughtrack",
-      "artist": "The Acro-Brats",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Acro-Brats%20-%20Laughtrack%20%28Co-op%29.zip",
-      "charter": "Co-op"
+      "artist": "The Acro-brats",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Acro-Brats%20-%20Laughtrack.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "...Go Down Swinging!",
+      "genre": "Hard Rock",
+      "year": "2006"
     },
     {
-      "title": "Laughtrack",
-      "artist": "The Acro-Brats",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Acro-Brats%20-%20Laughtrack.zip"
-    },
-    {
-      "title": "Mr. Fix It",
-      "artist": "The Amazing Crowns",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Amazing%20Crowns%20-%20Mr.%20Fix%20It.zip"
-    },
-    {
-      "title": "Cavemen Rejoice",
+      "title": "Caveman Rejoice",
       "artist": "The Bags",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Bags%20-%20Cavemen%20Rejoice.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Bags%20-%20Cavemen%20Rejoice.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Sharpen Your Sticks",
+      "genre": "Hard Rock",
+      "year": "2005"
     },
     {
-      "title": "One for the Road",
-      "artist": "The Breaking Wheel",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Breaking%20Wheel%20-%20One%20for%20the%20Road.zip"
+      "title": "Take It Off",
+      "artist": "The Donnas (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Donnas%20-%20Take%20it%20Off.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Spend the Night",
+      "genre": "Hard Rock",
+      "year": "2002"
     },
     {
-      "title": "Take it Off",
-      "artist": "The Donnas",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Donnas%20-%20Take%20it%20Off.zip"
-    },
-    {
-      "title": "Frankenstein",
-      "artist": "The Edgar Winter Group",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Edgar%20Winter%20Group%20-%20Frankenstein.zip"
-    },
-    {
-      "title": "Hey You",
-      "artist": "The Exies",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Exies%20-%20Hey%20You.zip"
-    },
-    {
-      "title": "We Got the Beat",
-      "artist": "The Go-Go's",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Go-Go%27s%20-%20We%20Got%20the%20Beat.zip"
+      "title": "Spanish Castle Magic",
+      "artist": "Jimi Hendrix (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Jimi%20Hendrix%20Experience%20-%20Spanish%20Castle%20Magic.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Axis: Bold as Love",
+      "genre": "Hard Rock",
+      "year": "1967"
     },
     {
       "title": "Raw Dog",
       "artist": "The Last Vegas",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Last%20Vegas%20-%20Raw%20Dog.zip"
-    },
-    {
-      "title": "Story of My Love",
-      "artist": "The Model Sons",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Model%20Sons%20-%20Story%20of%20My%20Love.zip"
-    },
-    {
-      "title": "Parasite",
-      "artist": "The Neighborhoods",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Neighborhoods%20-%20Parasite.zip"
-    },
-    {
-      "title": "Synchronicity II",
-      "artist": "The Police",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Police%20-%20Synchronicity%20II.zip"
-    },
-    {
-      "title": "What I Like About You",
-      "artist": "The Romantics",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Romantics%20-%20What%20I%20Like%20About%20You.zip"
-    },
-    {
-      "title": "Even Rats",
-      "artist": "The Slip",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Slip%20-%20Even%20Rats.zip"
-    },
-    {
-      "title": "The Black River",
-      "artist": "The Sword",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Sword%20-%20The%20Black%20River.zip"
-    },
-    {
-      "title": "Eureka, I've Found Love",
-      "artist": "The Upper Crust",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Upper%20Crust%20-%20Eureka%2C%20I%27ve%20Found%20Love.zip"
-    },
-    {
-      "title": "Turning Japanese",
-      "artist": "The Vapors",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Vapors%20-%20Turning%20Japanese.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Last%20Vegas%20-%20Raw%20Dog.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Seal the Deal",
+      "genre": "Hard Rock",
+      "year": "2006"
     },
     {
       "title": "The Boys Are Back In Town",
       "artist": "Thin Lizzy",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Thin%20Lizzy%20-%20The%20Boys%20Are%20Back%20In%20Town.zip"
-    },
-    {
-      "title": "I Wanna Rock",
-      "artist": "Twisted Sister",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Twisted%20Sister%20-%20I%20Wanna%20Rock.zip"
-    },
-    {
-      "title": "FTK",
-      "artist": "VAGIANT",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/VAGIANT%20-%20FTK.zip"
-    },
-    {
-      "title": "Fall of Pangea",
-      "artist": "Valient Thorr",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Valient%20Thorr%20-%20Fall%20of%20Pangea.zip"
-    },
-    {
-      "title": "X-Stream",
-      "artist": "Voivod",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Voivod%20-%20X-Stream.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Thin%20Lizzy%20-%20The%20Boys%20Are%20Back%20In%20Town.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Jailbreak",
+      "genre": "Hard Rock",
+      "year": "1976"
     },
     {
       "title": "Radar Love",
-      "artist": "White Lion",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/White%20Lion%20-%20Radar%20Love.zip"
-    },
-    {
-      "title": "Thunder Kiss '65",
-      "artist": "White Zombie",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/White%20Zombie%20-%20Thunder%20Kiss%20%2765.zip"
-    },
-    {
-      "title": "Seventeen",
-      "artist": "Winger",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Winger%20-%20Seventeen.zip"
-    },
-    {
-      "title": "Los Angeles",
-      "artist": "X",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/X%20-%20Los%20Angeles.zip"
-    },
-    {
-      "title": "Sharp Dressed Man",
-      "artist": "ZZ Top",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/ZZ%20Top%20-%20Sharp%20Dressed%20Man.zip"
+      "artist": "White Lion (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/White%20Lion%20-%20Radar%20Love.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Big Game",
+      "genre": "Hard Rock",
+      "year": "1989"
     }
   ],
   "Metal": [
     {
-      "title": "This Is My War (TheZombieDon (Trickii))",
+      "title": "Balls to the Wall",
+      "artist": "Accept (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Accept%20-%20Balls%20to%20the%20Wall.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Balls to the Wall",
+      "genre": "Heavy Metal",
+      "year": "1983"
+    },
+    {
+      "title": "Six",
+      "artist": "All That Remains",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/All%20That%20Remains%20-%20Six.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The Fall Of Ideals",
+      "genre": "Metalcore",
+      "year": "2006"
+    },
+    {
+      "title": "Behind The Mask",
+      "artist": "Anarchy Club",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Anarchy%20Club%20-%20Behind%20the%20Mask.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The Way and Its Power",
+      "genre": "Alternative Metal",
+      "year": "2005"
+    },
+    {
+      "title": "Caught In A Mosh",
+      "artist": "Anthrax (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Anthrax%20-%20Caught%20in%20a%20Mosh.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Among the Living",
+      "genre": "Thrash Metal",
+      "year": "1986"
+    },
+    {
+      "title": "The Breaking Wheel",
+      "artist": "Artillery",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Artillery%20-%20The%20Breaking%20Wheel.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Breaking Wheel",
+      "genre": "Metal",
+      "year": "2005"
+    },
+    {
+      "title": "Fire It Up",
+      "artist": "Black Label Society",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Black%20Label%20Society%20-%20Fire%20it%20Up.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Mafia",
+      "genre": "Heavy Metal",
+      "year": "2005"
+    },
+    {
+      "title": "Iron Man",
+      "artist": "Black Sabbath (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Black%20Sabbath%20-%20Iron%20Man.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Paranoid",
+      "genre": "Heavy Metal",
+      "year": "1970"
+    },
+    {
+      "title": "Godzilla",
+      "artist": "Blue Oyster Cult (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Blue%20%C3%96yster%20Cult%20-%20Godzilla.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Spectres",
+      "genre": "Heavy Metal",
+      "year": "1977"
+    },
+    {
+      "title": "Jordan",
+      "artist": "Buckethead",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Buckethead%20-%20Jordan.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Single",
+      "genre": "Progressive Metal",
+      "year": "2006"
+    },
+    {
+      "title": "Albatross",
+      "artist": "Corrosion of Conformity",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Corrosion%20of%20Conformity%20-%20Albatross.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Deliverance",
+      "genre": "Heavy Metal",
+      "year": "1994"
+    },
+    {
+      "title": "Thunderhorse",
+      "artist": "Dethklok",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Dethklok%20-%20Thunderhorse.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The Dethalbum",
+      "genre": "Melodic Death Metal",
+      "year": "2007"
+    },
+    {
+      "title": "Am I Evil?",
+      "artist": "Diamond Head",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Diamond%20Head%20-%20Am%20I%20Evil.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Lightning to the Nations",
+      "genre": "Heavy Metal",
+      "year": "1980"
+    },
+    {
+      "title": "Arterial Black (Co-op)",
+      "artist": "Drist",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Drist%20-%20Arterial%20Black%20%28Co-op%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Orchids and Ammunition",
+      "genre": "Punk-Metal",
+      "year": "2006"
+    },
+    {
+      "title": "Arterial Black",
+      "artist": "Drist",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Drist%20-%20Arterial%20Black.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Orchids and Ammunition",
+      "genre": "Punk-Metal",
+      "year": "2006"
+    },
+    {
+      "title": "Play With Me",
+      "artist": "Extreme (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Extreme%20-%20Play%20with%20Me.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Extreme",
+      "genre": "Speed Metal",
+      "year": "1989"
+    },
+    {
+      "title": "Bathroom Wall",
+      "artist": "Faster Pussycat (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Faster%20Pussycat%20-%20Bathroom%20Wall.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Faster Pussycat",
+      "genre": "Glam Metal",
+      "year": "1987"
+    },
+    {
+      "title": "This Is My War",
       "artist": "Five Finger Death Punch",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Five%20Finger%20Death%20Punch%20-%20This%20Is%20My%20War%20%28TheZombieDon%20%28Trickii%29%29.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Five%20Finger%20Death%20Punch%20-%20This%20Is%20My%20War%20%28TheZombieDon%20%28Trickii%29%29.zip",
+      "charter": "TheZombieDon (Trickii)",
+      "album": "Got Your Six",
+      "genre": "Metal",
+      "year": "2015"
+    },
+    {
+      "title": "Cheat on the Church",
+      "artist": "Graveyard BBQ",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Graveyard%20BBQ%20-%20Cheat%20on%20the%20Church.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Greatest Hits Volume I",
+      "genre": "Metal",
+      "year": "2005"
+    },
+    {
+      "title": "Unsung",
+      "artist": "Helmet (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Helmet%20-%20Unsung.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Meantime",
+      "genre": "Alternative Metal",
+      "year": "1992"
+    },
+    {
+      "title": "Wrathchild",
+      "artist": "Iron Maiden (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Iron%20Maiden%20-%20Wrathchild.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Killers",
+      "genre": "Heavy Metal",
+      "year": "1981"
+    },
+    {
+      "title": "Hell Bent for Leather",
+      "artist": "Judas Priest",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Judas%20Priest%20-%20Hell%20Bent%20for%20Leather.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Killing Machine",
+      "genre": "Heavy Metal",
+      "year": "1978"
+    },
+    {
+      "title": "The Hellion/Electric Eye",
+      "artist": "Judas Priest",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Judas%20Priest%20-%20The%20Hellion%20%26%20Electric%20Eye.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Screaming for Vengeance",
+      "genre": "Heavy Metal",
+      "year": "1982"
+    },
+    {
+      "title": "You Got Another Thing Comin'",
+      "artist": "Judas Priest (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Judas%20Priest%20-%20You%27ve%20Got%20Another%20Thing%20Comin%27.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Screaming for Vengeance",
+      "genre": "Heavy Metal",
+      "year": "1982"
+    },
+    {
+      "title": "Numb",
+      "artist": "Linkin Park",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Linkin%20Park%20-%20Numb%20%28Capta1n_GuitarHero%2C%20Harmonix%29.zip",
+      "charter": "Capta1n_GuitarHero, Harmonix",
+      "album": "Meteora",
+      "genre": "Nu-Metal",
+      "year": "2003"
+    },
+    {
+      "title": "Beautiful Mourning",
+      "artist": "Machine Head",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Machine%20Head%20-%20Beautiful%20Mourning.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "The Blackening",
+      "genre": "Groove Metal",
+      "year": "2007"
+    },
+    {
+      "title": "Blood and Thunder",
+      "artist": "Mastodon",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Mastodon%20-%20Blood%20and%20Thunder.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Leviathan",
+      "genre": "Sludge Metal",
+      "year": "2004"
+    },
+    {
+      "title": "Symphony Of Destruction",
+      "artist": "Megadeth (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Megadeth%20-%20Symphony%20of%20Destruction.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Countdown to Extinction",
+      "genre": "Heavy Metal",
+      "year": "1992"
+    },
+    {
+      "title": "Red Lottery",
+      "artist": "Megasus",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Megasus%20-%20Red%20Lottery.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Megasus",
+      "genre": "Doom Metal",
+      "year": "2006"
+    },
+    {
+      "title": "Evil",
+      "artist": "Mercyful Fate",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Mercyful%20Fate%20-%20Evil.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Melissa",
+      "genre": "Heavy Metal",
+      "year": "2008"
     },
     {
       "title": "All Nightmare Long",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20All%20Nightmare%20Long.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20All%20Nightmare%20Long.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Death Magnetic",
+      "genre": "Thrash Metal",
+      "year": "2008"
     },
     {
       "title": "Battery",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Battery.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Battery.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Master of Puppets",
+      "genre": "Thrash Metal",
+      "year": "1986"
     },
     {
       "title": "Creeping Death",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Creeping%20Death.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Creeping%20Death.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Ride the Lightning",
+      "genre": "Thrash Metal",
+      "year": "1984"
     },
     {
       "title": "Disposable Heroes",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Disposable%20Heroes.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Disposable%20Heroes.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Master of Puppets",
+      "genre": "Thrash Metal",
+      "year": "1986"
     },
     {
       "title": "Dyer's Eve",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Dyer%27s%20Eve.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Dyer%27s%20Eve.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "...And Justice for All",
+      "genre": "Thrash Metal",
+      "year": "1988"
     },
     {
       "title": "Enter Sandman",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Enter%20Sandman.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Enter%20Sandman.zip"
     },
     {
       "title": "Fade to Black",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Fade%20to%20Black.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Fade%20to%20Black.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Ride the Lightning",
+      "genre": "Thrash Metal",
+      "year": "1984"
     },
     {
       "title": "Fight Fire with Fire",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Fight%20Fire%20with%20Fire.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Fight%20Fire%20with%20Fire.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Ride the Lightning",
+      "genre": "Thrash Metal",
+      "year": "1984"
     },
     {
       "title": "For Whom the Bell Tolls",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20For%20Whom%20the%20Bell%20Tolls.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20For%20Whom%20the%20Bell%20Tolls.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Ride the Lightning",
+      "genre": "Thrash Metal",
+      "year": "1984"
     },
     {
       "title": "Frantic",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Frantic.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Frantic.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "St. Anger",
+      "genre": "Heavy Metal",
+      "year": "2003"
     },
     {
       "title": "Fuel",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Fuel.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Fuel.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "ReLoad",
+      "genre": "Heavy Metal",
+      "year": "1997"
     },
     {
       "title": "Hit the Lights",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Hit%20the%20Lights.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Hit%20the%20Lights.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Kill 'Em All",
+      "genre": "Thrash Metal",
+      "year": "1983"
     },
     {
       "title": "King Nothing",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20King%20Nothing.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20King%20Nothing.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Load",
+      "genre": "Heavy Metal",
+      "year": "1996"
     },
     {
       "title": "Master of Puppets",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Master%20of%20Puppets.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Master%20of%20Puppets.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Master of Puppets",
+      "genre": "Thrash Metal",
+      "year": "1986"
     },
     {
       "title": "Mercyful Fate",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Mercyful%20Fate.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Mercyful%20Fate.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Garage Inc.",
+      "genre": "Heavy Metal",
+      "year": "1998"
     },
     {
       "title": "No Leaf Clover",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20No%20Leaf%20Clover.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20No%20Leaf%20Clover.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "S&M",
+      "genre": "Heavy Metal",
+      "year": "1999"
     },
     {
       "title": "Nothing Else Matters",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Nothing%20Else%20Matters.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Nothing%20Else%20Matters.zip"
     },
     {
       "title": "One",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20One.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20One.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "...And Justice for All",
+      "genre": "Thrash Metal",
+      "year": "1988"
     },
     {
       "title": "Orion",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Orion.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Orion.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Master of Puppets",
+      "genre": "Thrash Metal",
+      "year": "1986"
     },
     {
       "title": "Sad But True",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Sad%20But%20True.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Sad%20But%20True.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Metallica",
+      "genre": "Heavy Metal",
+      "year": "1991"
     },
     {
       "title": "Seek and Destroy",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Seek%20and%20Destroy.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Seek%20and%20Destroy.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Kill 'Em All",
+      "genre": "Thrash Metal",
+      "year": "1983"
     },
     {
       "title": "The Memory Remains",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20The%20Memory%20Remains.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20The%20Memory%20Remains.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "ReLoad",
+      "genre": "Thrash Metal",
+      "year": "1997"
     },
     {
       "title": "The Shortest Straw",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20The%20Shortest%20Straw.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20The%20Shortest%20Straw.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "...And Justice for All",
+      "genre": "Heavy Metal",
+      "year": "1988"
     },
     {
       "title": "The Thing That Should Not Be",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20The%20Thing%20That%20Should%20Not%20Be.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20The%20Thing%20That%20Should%20Not%20Be.zip"
     },
     {
       "title": "The Unforgiven",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20The%20Unforgiven.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20The%20Unforgiven.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Metallica",
+      "genre": "Thrash Metal",
+      "year": "1991"
     },
     {
-      "title": "Welcome Home",
+      "title": "Welcome Home (Sanitarium)",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Welcome%20Home%20%28Sanitarium%29.zip",
-      "charter": "Sanitarium"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Welcome%20Home%20%28Sanitarium%29.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Master of Puppets",
+      "genre": "Heavy Metal",
+      "year": "1986"
     },
     {
       "title": "Wherever I May Roam",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Wherever%20I%20May%20Roam.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Wherever%20I%20May%20Roam.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Metallica",
+      "genre": "Heavy Metal",
+      "year": "1991"
     },
     {
       "title": "Whiplash",
       "artist": "Metallica",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Metallica%20-%20Whiplash.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Metallica%20-%20Whiplash.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Kill 'Em All",
+      "genre": "Thrash Metal",
+      "year": "1983"
+    },
+    {
+      "title": "Ace of Spades",
+      "artist": "Motörhead",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Mot%C3%B6rhead%20-%20Ace%20of%20Spades.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Ace of Spades",
+      "genre": "Heavy Metal",
+      "year": "2008"
+    },
+    {
+      "title": "Drink Up",
+      "artist": "Ounce of Self",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Ounce%20of%20Self%20-%20Drink%20Up.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Ounce of Self",
+      "genre": "Heavy Metal",
+      "year": "2006"
+    },
+    {
+      "title": "Bark at the Moon",
+      "artist": "Ozzy Osbourne (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Ozzy%20Osbourne%20-%20Bark%20at%20the%20Moon.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Bark at the Moon",
+      "genre": "Heavy Metal",
+      "year": "1983"
+    },
+    {
+      "title": "Cowboys from Hell",
+      "artist": "Pantera (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Pantera%20-%20Cowboys%20from%20Hell.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Cowboys from Hell",
+      "genre": "Groove Metal",
+      "year": "1990"
+    },
+    {
+      "title": "Ain't Nothin But A Good Time",
+      "artist": "Poison (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Poison%20-%20Ain%27t%20Nothin%27%20But%20a%20Good%20Time.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Open Up and Say... Ahh!",
+      "genre": "Glam Metal",
+      "year": "1988"
+    },
+    {
+      "title": "Numbers (I Can Only Count to Four)",
+      "artist": "Psychostick",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Psychostick%20-%20Numbers%20%28I%20Can%20Only%20Count%20to%20Four%29%20%28Miscellany%29.zip",
+      "charter": "<color=#a5002c>M</color><color=#ff0038>i</color><color=#f84b61>s</color><color=#f2848d>c</color><color=#f6b6cd>e</color><color=#f6b6cd>l</color><color=#f2848d>l</color><color=#f84b61>a</color><color=#ff0038>n</color><color=#a5002c>y</color>",
+      "album": "Space Vampires vs Zombie Dinosaurs in 3D",
+      "genre": "Parody Metal",
+      "year": "2011"
+    },
+    {
+      "title": "(Bang Your Head) Metal Health",
+      "artist": "Quiet Riot (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Quiet%20Riot%20-%20%28Bang%20Your%20Head%29%20Metal%20Health.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Metal Health",
+      "genre": "Heavy Metal",
+      "year": "1983"
+    },
+    {
+      "title": "Round And Round",
+      "artist": "Ratt (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Ratt%20-%20Round%20and%20Round.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Out of the Cellar",
+      "genre": "Glam Metal",
+      "year": "1984"
+    },
+    {
+      "title": "Higher Ground",
+      "artist": "Red Hot Chili Peppers (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Red%20Hot%20Chili%20Peppers%20-%20Higher%20Ground.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Mother's Milk",
+      "genre": "Funk Metal",
+      "year": "1989"
+    },
+    {
+      "title": "The Light That Blinds",
+      "artist": "Shadows Fall",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Shadows%20Fall%20-%20The%20Light%20That%20Blinds.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The War Within",
+      "genre": "Thrash Metal",
+      "year": "2004"
+    },
+    {
+      "title": "18 And Life",
+      "artist": "Skid Row (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Skid%20Row%20-%2018%20and%20Life.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Skid Row",
+      "genre": "Glam Metal",
+      "year": "1989"
+    },
+    {
+      "title": "War Ensemble",
+      "artist": "Slayer",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Slayer%20-%20War%20Ensemble.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Seasons in the Abyss",
+      "genre": "Thrash Metal",
+      "year": "1990"
+    },
+    {
+      "title": "Trogdor (Co-op)",
+      "artist": "Strong Bad",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Strong%20Bad%20-%20Trogdor%20%28Co-op%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Strong Bad Sings (and Other Type Hits)",
+      "genre": "Heavy Metal",
+      "year": "2003"
+    },
+    {
+      "title": "Trogdor",
+      "artist": "Strong Bad",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Strong%20Bad%20-%20Trogdor.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Strong Bad Sings (and Other Type Hits)",
+      "genre": "Heavy Metal",
+      "year": "2003"
+    },
+    {
+      "title": "Toxicity",
+      "artist": "System of a Down",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/System%20of%20a%20Down%20-%20Toxicity.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Toxicity",
+      "genre": "Heavy Metal",
+      "year": "2001"
+    },
+    {
+      "title": "One For the Road",
+      "artist": "Breaking Wheel",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Breaking%20Wheel%20-%20One%20for%20the%20Road.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Breaking Wheel",
+      "genre": "Death Metal",
+      "year": "2006"
+    },
+    {
+      "title": "The Black River",
+      "artist": "The Sword",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Sword%20-%20The%20Black%20River.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Gods of the Earth",
+      "genre": "Heavy Metal",
+      "year": "2008"
+    },
+    {
+      "title": "I Wanna Rock",
+      "artist": "Twisted Sister",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Twisted%20Sister%20-%20I%20Wanna%20Rock.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Still Hungry",
+      "genre": "Heavy Metal",
+      "year": "2004"
+    },
+    {
+      "title": "X-Stream",
+      "artist": "Voivod",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Voivod%20-%20X-Stream.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Katorz",
+      "genre": "Heavy Metal",
+      "year": "2006"
+    },
+    {
+      "title": "Seventeen",
+      "artist": "Winger (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Winger%20-%20Seventeen.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Winger",
+      "genre": "Glam Metal",
+      "year": "1988"
     }
   ],
-  "Classic Rock": [
+  "New Wave": [
+    {
+      "title": "I Ran (So Far Away)",
+      "artist": "Flock of Seagulls",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/A%20Flock%20of%20Seagulls%20-%20I%20Ran%20%28So%20Far%20Away%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "A Flock of Seagulls",
+      "genre": "New Wave",
+      "year": "1982"
+    },
+    {
+      "title": "Only A Lad",
+      "artist": "Oingo Boingo (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Oingo%20Boingo%20-%20Only%20a%20Lad.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Only a Lad",
+      "genre": "New Wave",
+      "year": "1981"
+    },
+    {
+      "title": "We Got the Beat",
+      "artist": "The Go Go's (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Go-Go%27s%20-%20We%20Got%20the%20Beat.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Beauty and the Beat",
+      "genre": "New Wave",
+      "year": "1981"
+    },
+    {
+      "title": "Synchronicity II",
+      "artist": "The Police (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Police%20-%20Synchronicity%20II.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Synchronicity",
+      "genre": "New Wave",
+      "year": "1983"
+    },
+    {
+      "title": "Turning Japanese",
+      "artist": "The Vapors (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Vapors%20-%20Turning%20Japanese.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "New Clear Days",
+      "genre": "New Wave",
+      "year": "1980"
+    }
+  ],
+  "Pop": [
+    {
+      "title": "Get Ready 2 Rokk",
+      "artist": "Freezepop",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Freezepop%20-%20Get%20Ready%202%20Rokk.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Freezepop Forever",
+      "genre": "Synthpop",
+      "year": "2000"
+    },
+    {
+      "title": "Less Talk More Rokk (Co-op)",
+      "artist": "FreezePop",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Freezepop%20-%20Less%20Talk%20More%20Rokk%20%28Co-op%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Future Future Future Perfect",
+      "genre": "Synth-Pop",
+      "year": "2007"
+    },
+    {
+      "title": "Less Talk More Rokk",
+      "artist": "FreezePop",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Freezepop%20-%20Less%20Talk%20More%20Rokk.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Future Future Future Perfect",
+      "genre": "Synth-Pop",
+      "year": "2007"
+    },
+    {
+      "title": "Killer Queen",
+      "artist": "Queen (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Queen%20-%20Killer%20Queen.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Sheer Heart Attack",
+      "genre": "Art Pop",
+      "year": "1974"
+    },
+    {
+      "title": "The Warrior",
+      "artist": "Scandal",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Scandal%20-%20The%20Warrior.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Warrior",
+      "genre": "Power Pop",
+      "year": "1984"
+    },
+    {
+      "title": "Fat Lip",
+      "artist": "Sum41 (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Sum%2041%20-%20Fat%20Lip.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "All Killer No Filler",
+      "genre": "Pop Punk",
+      "year": "2001"
+    },
+    {
+      "title": "What I Like About You",
+      "artist": "The Romantics (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Romantics%20-%20What%20I%20Like%20About%20You.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The Romantics",
+      "genre": "Power Pop",
+      "year": "1980"
+    },
+    {
+      "title": "Sharp Dressed Man",
+      "artist": "ZZ Top (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/ZZ%20Top%20-%20Sharp%20Dressed%20Man.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Eliminator",
+      "genre": "Synth-Pop",
+      "year": "1983"
+    }
+  ],
+  "Post-Grunge": [
+    {
+      "title": "Stacked Actors",
+      "artist": "Foo Fighters",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Foo%20Fighters%20-%20Stacked%20Actors.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "There Is Nothing Left to Lose",
+      "genre": "Post-Grunge",
+      "year": "2000"
+    },
+    {
+      "title": "Hey You",
+      "artist": "The Exies (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Exies%20-%20Hey%20You.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Head for the Door",
+      "genre": "Post-Grunge",
+      "year": "2004"
+    }
+  ],
+  "Punk": [
+    {
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Franz%20Ferdinand%20-%20Take%20Me%20Out.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Franz Ferdinand",
+      "genre": "Post-Punk Revival",
+      "year": "2004"
+    },
+    {
+      "title": "Callout",
+      "artist": "The Acro-Brats",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Acro-Brats%20-%20Callout.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "...Go Down Swinging!",
+      "genre": "Punk",
+      "year": "2005"
+    }
+  ],
+  "Rock": [
+    {
+      "title": "Collide",
+      "artist": "Anarchy Club",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Anarchy%20Club%20-%20Collide.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "A Single Drop of Red",
+      "genre": "Alternative Rock",
+      "year": "2007"
+    },
+    {
+      "title": "Trippolette",
+      "artist": "Andraleia Buch",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Andraleia%20Buch%20-%20Trippolette.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Guitar Hero",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Heat Of The Moment",
+      "artist": "Asia (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Asia%20-%20Heat%20of%20the%20Moment.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Asia",
+      "genre": "Progressive Rock",
+      "year": "1982"
+    },
+    {
+      "title": "Infected",
+      "artist": "Bad Religion (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Bad%20Religion%20-%20Infected.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Stranger than Fiction",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Lonely Is The Night",
+      "artist": "Billy Squier (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Billy%20Squier%20-%20Lonely%20Is%20the%20Night.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Don't Say No",
+      "genre": "Rock",
+      "year": "1981"
+    },
+    {
+      "title": "Turn the Page (Live)",
+      "artist": "Bob Seger and the Silver Bullet Band",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Bob%20Seger%20and%20the%20Silver%20Bullet%20Band%20-%20Turn%20the%20Page%20%28Live%29.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "'Live' Bullet",
+      "genre": "Country Rock",
+      "year": "1976"
+    },
+    {
+      "title": "More Than A Feeling",
+      "artist": "Boston (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Boston%20-%20More%20Than%20a%20Feeling.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Boston",
+      "genre": "Arena Rock",
+      "year": "1976"
+    },
+    {
+      "title": "Gemini",
+      "artist": "Brian Kahanek",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Brian%20Kahanek%20-%20Gemini.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Real Life",
+      "genre": "Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Radium Eyes",
+      "artist": "Count Zero",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Count%20Zero%20-%20Radium%20Eyes.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Never Be Yourself",
+      "genre": "Pop Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Sail Your Ship By",
+      "artist": "Count Zero",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Count%20Zero%20-%20Sail%20Your%20Ship%20By.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Little Minds",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Ziggy Stardust",
+      "artist": "David Bowie (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/David%20Bowie%20-%20Ziggy%20Stardust.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "genre": "Glam Rock",
+      "year": "1972"
+    },
+    {
+      "title": "Police Truck",
+      "artist": "Dead Kennedys (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Dead%20Kennedys%20-%20Police%20Truck.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Give Me Convenience or Give Me Death",
+      "genre": "Punk Rock",
+      "year": "1987"
+    },
+    {
+      "title": "Fly On The Wall",
+      "artist": "Din",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Din%20-%20Fly%20on%20the%20Wall.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Longhair Music",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Decontrol",
+      "artist": "Drist",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Drist%20-%20Decontrol.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Orchids and Ammunition",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Shakin'",
+      "artist": "Eddie Money (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Eddie%20Money%20-%20Shakin.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "No Control",
+      "genre": "Rock",
+      "year": "1982"
+    },
+    {
+      "title": "The New Black",
+      "artist": "Every Time I Die",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Every%20Time%20I%20Die%20-%20The%20New%20Black.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Gutter Phenomenon",
+      "genre": "Southern Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Graveyard Shift",
+      "artist": "Gurney",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Gurney%20-%20Graveyard%20Shift.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Guitar Hero",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Hey",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Honest%20Bob%20and%20the%20Factory-to-Dealer%20Incentives%20-%20Hey.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Second and Eighteen",
+      "genre": "Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Soy Bomb (Co-op)",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Honest%20Bob%20and%20the%20Factory-to-Dealer%20Incentives%20-%20Soy%20Bomb%20%28Co-op%29.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Soy Bomb",
+      "genre": "Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Soy Bomb",
+      "artist": "Honest Bob and the Factory-to-Dealer Incentives",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Honest%20Bob%20and%20the%20Factory-to-Dealer%20Incentives%20-%20Soy%20Bomb.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Soy Bomb",
+      "genre": "Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Stellar",
+      "artist": "Incubus (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Incubus%20-%20Stellar.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Make Yourself",
+      "genre": "Space Rock",
+      "year": "1999"
+    },
+    {
+      "title": "Ballroom Blitz",
+      "artist": "Krokus (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Krokus%20-%20Ballroom%20Blitz.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "The Blitz",
+      "genre": "Glam Rock",
+      "year": "1984"
+    },
+    {
+      "title": "Demon Cleaner",
+      "artist": "Kyuss",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Kyuss%20-%20Demon%20Cleaner.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Welcome to Sky Valley",
+      "genre": "Stoner Rock",
+      "year": "1994"
+    },
     {
       "title": "Tuesday's Gone",
       "artist": "Lynyrd Skynyrd",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Lynyrd%20Skynyrd%20-%20Tuesday%27s%20Gone.zip"
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Lynyrd%20Skynyrd%20-%20Tuesday%27s%20Gone.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "(pronounced 'lĕh-'nérd 'skin-'nérd)",
+      "genre": "Southern Rock",
+      "year": "1973"
     },
     {
-      "title": "Ain't Nothin' But a Good Time",
-      "artist": "Poison",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/Poison%20-%20Ain%27t%20Nothin%27%20But%20a%20Good%20Time.zip"
+      "title": "Farewell Myth",
+      "artist": "Made In Mexico",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Made%20in%20Mexico%20-%20Farewell%20Myth.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Zodiac Zoo",
+      "genre": "Rock",
+      "year": "2005"
     },
     {
-      "title": "Spanish Castle Magic",
-      "artist": "The Jimi Hendrix Experience",
-      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/rythymhero-main/The%20Jimi%20Hendrix%20Experience%20-%20Spanish%20Castle%20Magic.zip"
+      "title": "Yes We Can",
+      "artist": "Made in Mexico",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Made%20in%20Mexico%20-%20Yes%20We%20Can.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Guerillation",
+      "genre": "Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Guitar Hero",
+      "artist": "Monkey Steals The Peach",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Monkey%20Steals%20the%20Peach%20-%20Guitar%20Hero.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Guitar Hero",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Kicked To The Curb",
+      "artist": "Noble Rot",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Noble%20Rot%20-%20Kicked%20to%20the%20Curb.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Noble Rot",
+      "genre": "Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Stone Cold Crazy",
+      "artist": "Queen",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Queen%20-%20Stone%20Cold%20Crazy.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Sheer Heart Attack",
+      "genre": "Rock",
+      "year": "1974"
+    },
+    {
+      "title": "No One Knows",
+      "artist": "Queens of the Stone Age (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Queens%20of%20the%20Stone%20Age%20-%20No%20One%20Knows.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Songs for the Deaf",
+      "genre": "Stoner Rock",
+      "year": "2002"
+    },
+    {
+      "title": "I Wanna Be Sedated",
+      "artist": "The Ramones (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Ramones%20-%20I%20Wanna%20Be%20Sedated.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Road to Ruin",
+      "genre": "Punk Rock",
+      "year": "1978"
+    },
+    {
+      "title": "All of This",
+      "artist": "Shaimus",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Shaimus%20-%20All%20of%20This.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Paper Sun",
+      "genre": "Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Mommy's Little Monster (Live)",
+      "artist": "Social Distortion",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Social%20Distortion%20-%20Mommy%27s%20Little%20Monster%20%28Live%29.zip",
+      "charter": "<color=orange>Neversoft</color>",
+      "album": "Live at the Roxy",
+      "genre": "Punk Rock",
+      "year": "1998"
+    },
+    {
+      "title": "Elephant Bones",
+      "artist": "That Handsome Devil",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/That%20Handsome%20Devil%20-%20Elephant%20Bones.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "That Handsome Devil",
+      "genre": "Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Mr. Fix It",
+      "artist": "The Amazing Crowns",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Amazing%20Crowns%20-%20Mr.%20Fix%20It.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Royal",
+      "genre": "Rock",
+      "year": "2000"
+    },
+    {
+      "title": "Frankenstein",
+      "artist": "The Edgar Winter Group (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Edgar%20Winter%20Group%20-%20Frankenstein.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "They Only Come Out at Night",
+      "genre": "Instrumental Rock",
+      "year": "1972"
+    },
+    {
+      "title": "Story of My Love",
+      "artist": "The Model Sons",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Model%20Sons%20-%20Story%20of%20My%20Love.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Story of My Love",
+      "genre": "Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Parasite",
+      "artist": "The Neighborhoods",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Neighborhoods%20-%20Parasite.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Last Known Address",
+      "genre": "Alternative Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Even Rats",
+      "artist": "The Slip",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Slip%20-%20Even%20Rats.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Eisenhower",
+      "genre": "Indie Rock",
+      "year": "2005"
+    },
+    {
+      "title": "Eureka, I've Found Love",
+      "artist": "The Upper Crust",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Upper%20Crust%20-%20Eureka%2C%20I%27ve%20Found%20Love.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Once More Into The Breeches",
+      "genre": "Rock",
+      "year": "2001"
+    },
+    {
+      "title": "FTK",
+      "artist": "Vagiant",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/VAGIANT%20-%20FTK.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Public Display of Infection",
+      "genre": "Punk Rock",
+      "year": "2007"
+    },
+    {
+      "title": "Fall Of Pangea",
+      "artist": "Valient Thorr",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Valient%20Thorr%20-%20Fall%20of%20Pangea.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Legend of the World",
+      "genre": "Psychedelic Rock",
+      "year": "2006"
+    },
+    {
+      "title": "Thunder Kiss 65",
+      "artist": "White Zombie (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/White%20Zombie%20-%20Thunder%20Kiss%20%2765.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "La Sexorcisto: Devil Music Volume One",
+      "genre": "Alternative Rock",
+      "year": "1992"
+    },
+    {
+      "title": "Los Angeles",
+      "artist": "X (WaveGroup)",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/X%20-%20Los%20Angeles.zip",
+      "charter": "Harm<color=#0072bc>o</color>nix",
+      "album": "Los Angeles",
+      "genre": "Punk Rock",
+      "year": "1980"
+    }
+  ],
+  "Uncategorized": [
+    {
+      "title": ".gitattributes",
+      "artist": "Unknown Artist",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/.gitattributes.zip"
+    },
+    {
+      "title": "Mother of Mercy",
+      "artist": "Samhain",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Samhain%20-%20Mother%20of%20Mercy.zip"
     }
   ]
 }
