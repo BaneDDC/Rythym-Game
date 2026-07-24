@@ -10,6 +10,215 @@
       "year": "1983"
     }
   ],
+  "Classic Rock": [
+    {
+      "title": "(I Can't Get No) Satisfaction (Live)",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20%28I%20Can%27t%20Get%20No%29%20Satisfaction%20%28Live%29.zip",
+      "charter": "Live",
+      "album": "Get Yer Ya-Yas Out!",
+      "genre": "Classic Rock",
+      "year": "1969"
+    },
+    {
+      "title": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20%28I%20Can%27t%20Get%20No%29%20Satisfaction.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "Out of Our Heads",
+      "genre": "Classic Rock",
+      "year": "1965"
+    },
+    {
+      "title": "19th Nervous Breakdown",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%2019th%20Nervous%20Breakdown.zip",
+      "charter": "Kemiroch, CrazyCanuck, Dash Riprock",
+      "album": "Big Hits (High Tide and Green Grass)",
+      "genre": "Classic Rock",
+      "year": "1966"
+    },
+    {
+      "title": "2000 Light Years from Home",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%202000%20Light%20Years%20from%20Home.zip",
+      "charter": "AJFOne23, Kemiroch, EchoOfMystery",
+      "album": "Their Satanic Majesties Request",
+      "genre": "Classic Rock",
+      "year": "1967"
+    },
+    {
+      "title": "2000 Man",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%202000%20Man.zip",
+      "charter": "AJFOne23, Kemiroch, EchoOfMystery",
+      "album": "Their Satanic Majesties Request",
+      "genre": "Classic Rock",
+      "year": "1967"
+    },
+    {
+      "title": "Angie",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Angie.zip",
+      "charter": "Kemiroch, DashRiprock, CrazyCanuck",
+      "album": "Goats Head Soup",
+      "genre": "Classic Rock",
+      "year": "1973"
+    },
+    {
+      "title": "Bitch",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Bitch.zip",
+      "charter": "Ungrateful Dead",
+      "album": "Sticky Fingers",
+      "genre": "Classic Rock",
+      "year": "1971"
+    },
+    {
+      "title": "Brown Sugar",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Brown%20Sugar.zip",
+      "charter": "CrazyCanuck, Kemiroch",
+      "album": "Sticky Fingers",
+      "genre": "Classic Rock",
+      "year": "1971"
+    },
+    {
+      "title": "Can't You Hear Me Knocking",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Can%27t%20You%20Hear%20Me%20Knocking.zip",
+      "charter": "Kemiroch, AJ",
+      "album": "Sticky Fingers",
+      "genre": "Classic Rock",
+      "year": "1971"
+    },
+    {
+      "title": "Dead Flowers",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Dead%20Flowers.zip",
+      "charter": "Dahnlee/Spindoctor6969/Kemiroch",
+      "album": "Sticky Fingers",
+      "genre": "Classic Rock",
+      "year": "1971"
+    },
+    {
+      "title": "Emotional Rescue",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Emotional%20Rescue.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "Emotional Rescue",
+      "genre": "Classic Rock",
+      "year": "1980"
+    },
+    {
+      "title": "Get Off Of My Cloud",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Get%20Off%20Of%20My%20Cloud.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "December's Children",
+      "genre": "Classic Rock",
+      "year": "1965"
+    },
+    {
+      "title": "Jumpin' Jack Flash",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Jumpin%27%20Jack%20Flash.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "Through The Past, Darkly",
+      "genre": "Classic Rock",
+      "year": "1969"
+    },
+    {
+      "title": "Let's Spend The Night Together",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Let%27s%20Spend%20The%20Night%20Together.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "Between The Buttons",
+      "genre": "Classic Rock",
+      "year": "1967"
+    },
+    {
+      "title": "Moonlight Mile",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Moonlight%20Mile.zip",
+      "charter": "Kemiroch, mrcoupdetat, AJFone",
+      "album": "Sticky Fingers",
+      "genre": "Classic Rock",
+      "year": "1971"
+    },
+    {
+      "title": "Ruby Tuesday",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Ruby%20Tuesday.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "Between The Buttons",
+      "genre": "Classic Rock",
+      "year": "1967"
+    },
+    {
+      "title": "She's A Rainbow",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20She%27s%20A%20Rainbow.zip",
+      "charter": "AJFOne23, Kemiroch, EchoOfMystery",
+      "album": "Their Satanic Majesties Request",
+      "genre": "Classic Rock",
+      "year": "1967"
+    },
+    {
+      "title": "Start Me Up",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Start%20Me%20Up.zip",
+      "charter": "CrazyCanuck, Kemiroch",
+      "album": "Tattoo You",
+      "genre": "Classic Rock",
+      "year": "1981"
+    },
+    {
+      "title": "Street Fighting Man",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Street%20Fighting%20Man.zip",
+      "charter": "Kemiroch, CrazyCanuck, Dash Riprock",
+      "album": "Beggars Banquet",
+      "genre": "Classic Rock",
+      "year": "1968"
+    },
+    {
+      "title": "Sympathy for the Devil",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Sympathy%20for%20the%20Devil.zip",
+      "charter": "BearzUnlimited",
+      "album": "Beggars Banquet",
+      "genre": "Classic Rock",
+      "year": "1968"
+    },
+    {
+      "title": "Time Is On My Side",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Time%20Is%20On%20My%20Side.zip",
+      "charter": "Kemiroch, CrazyCanuck",
+      "album": "12x5",
+      "genre": "Classic Rock",
+      "year": "1964"
+    },
+    {
+      "title": "Wild Horses",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Wild%20Horses.zip",
+      "charter": "Kemiroch, Dash Riprock",
+      "album": "Sticky Fingers",
+      "genre": "Classic Rock",
+      "year": "1971"
+    },
+    {
+      "title": "You Can't Always Get What You Want",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20You%20Can%27t%20Always%20Get%20What%20You%20Want.zip",
+      "charter": "CrazyCanuck, Kemiroch",
+      "album": "Let It Bleed",
+      "genre": "Classic Rock",
+      "year": "1969"
+    }
+  ],
   "Comedy": [
     {
       "title": "Because, It's Midnite",
@@ -39,6 +248,159 @@
       "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Alice%20In%20Chains%20-%20No%20Excuses.zip",
       "charter": "<color=orange>Neversoft</color>",
       "album": "Jar of Flies",
+      "genre": "Grunge",
+      "year": "1994"
+    },
+    {
+      "title": "About a Girl (Live from MTV Unplugged)",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20About%20a%20Girl%20%28Live%20from%20MTV%20Unplugged%29.zip",
+      "charter": "Live from MTV Unplugged",
+      "album": "MTV Unplugged in New York",
+      "genre": "Grunge",
+      "year": "1994"
+    },
+    {
+      "title": "Aneurysm",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Aneurysm.zip",
+      "charter": "AllFleshIsEqualWhenBurnt",
+      "album": "Incesticide",
+      "genre": "Grunge",
+      "year": "1992"
+    },
+    {
+      "title": "Big Cheese",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Big%20Cheese.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "year": "1989"
+    },
+    {
+      "title": "Come As You Are",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Come%20As%20You%20Are.zip",
+      "charter": "MissingElements",
+      "album": "Nevermind",
+      "genre": "Grunge",
+      "year": "1991"
+    },
+    {
+      "title": "Floyd the Barber",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Floyd%20the%20Barber.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "year": "1989"
+    },
+    {
+      "title": "Frances Farmer Will Have Her Revenge on Seattle",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Frances%20Farmer%20Will%20Have%20Her%20Revenge%20on%20Seattle.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "In Utero",
+      "genre": "Grunge",
+      "year": "1993"
+    },
+    {
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Lithium.zip",
+      "charter": "MissingElements",
+      "album": "Nevermind",
+      "genre": "Grunge",
+      "year": "1991"
+    },
+    {
+      "title": "Love Buzz",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Love%20Buzz.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "year": "1989"
+    },
+    {
+      "title": "Moist Vagina",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Moist%20Vagina.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "All Apologies Single",
+      "genre": "Grunge",
+      "year": "1993"
+    },
+    {
+      "title": "Negative Creep",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Negative%20Creep.zip",
+      "charter": "Kloporte, Neversoft",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "year": "1989"
+    },
+    {
+      "title": "Polly (New Wave)",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Polly%20%28New%20Wave%29.zip",
+      "charter": "MissingElements",
+      "album": "Incesticide",
+      "genre": "Grunge",
+      "year": "1992"
+    },
+    {
+      "title": "Sappy",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Sappy.zip",
+      "charter": "Kloporte, Neversoft",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "year": "1989"
+    },
+    {
+      "title": "Serve the Servants",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Serve%20the%20Servants.zip",
+      "charter": "FrOoGle",
+      "album": "In Utero",
+      "genre": "Grunge",
+      "year": "1993"
+    },
+    {
+      "title": "Swap Meet",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Swap%20Meet.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "year": "1989"
+    },
+    {
+      "title": "Tourette's",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Tourette%27s.zip",
+      "charter": "AllFleshIsEqualWhenBurnt",
+      "album": "In Utero",
+      "genre": "Grunge",
+      "year": "1993"
+    },
+    {
+      "title": "Very Ape",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Very%20Ape.zip",
+      "charter": "Kloporte, Neversoft",
+      "album": "In Utero",
+      "genre": "Grunge",
+      "year": "1993"
+    },
+    {
+      "title": "Where Did You Sleep Last Night",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Where%20Did%20You%20Sleep%20Last%20Night.zip",
+      "charter": "Ollie",
+      "album": "MTV Unplugged in New York",
       "genre": "Grunge",
       "year": "1994"
     }
@@ -369,6 +731,84 @@
       "album": "Greatest Hits Volume I",
       "genre": "Metal",
       "year": "2005"
+    },
+    {
+      "title": "Civil War",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Civil%20War.zip",
+      "charter": "farottone",
+      "album": "Use Your Illusion II",
+      "genre": "Metal",
+      "year": "1991"
+    },
+    {
+      "title": "Don't Cry (Original)",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Don%27t%20Cry%20%28Original%29.zip",
+      "charter": "Tate",
+      "album": "Use Your Illusion I",
+      "genre": "Metal",
+      "year": "1991"
+    },
+    {
+      "title": "It's So Easy",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20It%27s%20So%20Easy.zip",
+      "album": "Appetite for Destruction",
+      "genre": "Metal",
+      "year": "1987"
+    },
+    {
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Knockin%27%20on%20Heaven%27s%20Door.zip",
+      "charter": "farottone",
+      "album": "Use Your Illusion II",
+      "genre": "Metal",
+      "year": "1991"
+    },
+    {
+      "title": "Live and Let Die",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Live%20and%20Let%20Die.zip",
+      "charter": "Tate",
+      "album": "Use Your Illusion I",
+      "genre": "Metal",
+      "year": "1991"
+    },
+    {
+      "title": "Mr. Brownstone",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Mr.%20Brownstone.zip",
+      "album": "Appetite for Destruction",
+      "genre": "Metal",
+      "year": "1987"
+    },
+    {
+      "title": "November Rain",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20November%20Rain.zip",
+      "charter": "Tate",
+      "album": "Use Your Illusion I",
+      "genre": "Metal",
+      "year": "1991"
+    },
+    {
+      "title": "Paradise City",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Paradise%20City.zip",
+      "album": "Appetite for Destruction",
+      "genre": "Metal",
+      "year": "1987"
+    },
+    {
+      "title": "Yesterdays",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Yesterdays.zip",
+      "charter": "farottone",
+      "album": "Use Your Illusion II",
+      "genre": "Metal",
+      "year": "1991"
     },
     {
       "title": "Unsung",
@@ -719,6 +1159,15 @@
       "year": "2008"
     },
     {
+      "title": "Stain",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Stain.zip",
+      "charter": "UnknownSoldier2300",
+      "album": "Incesticide",
+      "genre": "Metal",
+      "year": "1992"
+    },
+    {
       "title": "Drink Up",
       "artist": "Ounce of Self",
       "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Ounce%20of%20Self%20-%20Drink%20Up.zip",
@@ -1042,6 +1491,24 @@
       "year": "2004"
     },
     {
+      "title": "Welcome to Paradise",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Welcome%20to%20Paradise.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk",
+      "year": "1994"
+    },
+    {
+      "title": "When I Come Around",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20When%20I%20Come%20Around.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk",
+      "year": "1994"
+    },
+    {
       "title": "Callout",
       "artist": "The Acro-Brats",
       "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Acro-Brats%20-%20Callout.zip",
@@ -1049,6 +1516,26 @@
       "album": "...Go Down Swinging!",
       "genre": "Punk",
       "year": "2005"
+    }
+  ],
+  "R&B/Soul/Funk": [
+    {
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Don%27t%20Stop%20%27Til%20You%20Get%20Enough.zip",
+      "charter": "farottone",
+      "album": "Off the Wall",
+      "genre": "R&B/Soul/Funk",
+      "year": "1979"
+    },
+    {
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Rock%20With%20You.zip",
+      "charter": "farottone",
+      "album": "Off the Wall",
+      "genre": "R&B/Soul/Funk",
+      "year": "1979"
     }
   ],
   "Rock": [
@@ -1197,6 +1684,483 @@
       "year": "2005"
     },
     {
+      "title": "21 Guns",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%2021%20Guns.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "21st Century Breakdown",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%2021st%20Century%20Breakdown.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "American Eulogy",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20American%20Eulogy.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20American%20Idiot.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Are We the Waiting/St. Jimmy",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Are%20We%20the%20Waiting%20St.%20Jimmy.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Basket%20Case.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Before the Lobotomy",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Before%20the%20Lobotomy.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Boulevard of Broken Dreams",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Boulevard%20of%20Broken%20Dreams.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Brain Stew/Jaded",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Brain%20Stew%20Jaded.zip",
+      "charter": "Harmonix",
+      "album": "Insomniac",
+      "genre": "Punk Rock",
+      "year": "1995"
+    },
+    {
+      "title": "Burnout",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Burnout.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Christian's Inferno",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Christian%27s%20Inferno.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Chump",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Chump.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Coming Clean",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Coming%20Clean.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "East Jesus Nowhere",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20East%20Jesus%20Nowhere.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Emenius Sleepus",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Emenius%20Sleepus.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Extraordinary Girl",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Extraordinary%20Girl.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "F.O.D.",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20F.O.D.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Geek Stink Breath",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Geek%20Stink%20Breath.zip",
+      "charter": "Harmonix",
+      "album": "Insomniac",
+      "genre": "Punk Rock",
+      "year": "1995"
+    },
+    {
+      "title": "Give Me Novacaine/She's a Rebel",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Give%20Me%20Novacaine%2C%20She%27s%20a%20Rebel.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Good Riddance (Time of Your Life)",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Good%20Riddance%20%28Time%20of%20Your%20Life%29.zip",
+      "charter": "Harmonix",
+      "album": "Nimrod",
+      "genre": "Punk Rock",
+      "year": "1997"
+    },
+    {
+      "title": "Having a Blast",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Having%20a%20Blast.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Hitchin' a Ride",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Hitchin%27%20a%20Ride.zip",
+      "charter": "Harmonix",
+      "album": "Nimrod",
+      "genre": "Punk Rock",
+      "year": "1997"
+    },
+    {
+      "title": "Holiday",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Holiday.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Homecoming",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Homecoming.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Horseshoes and Handgrenades",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Horseshoes%20and%20Handgrenades.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "In the End",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20In%20the%20End.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Jesus of Suburbia",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Jesus%20of%20Suburbia.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Know Your Enemy",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Know%20Your%20Enemy.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Last Night on Earth",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Last%20Night%20on%20Earth.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Last of the American Girls",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Last%20of%20the%20American%20Girls.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Letterbomb",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Letterbomb.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Longview",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Longview.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Minority",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Minority.zip",
+      "charter": "Harmonix",
+      "album": "Warning",
+      "genre": "Punk Rock",
+      "year": "2000"
+    },
+    {
+      "title": "Murder City",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Murder%20City.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Nice Guys Finish Last",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Nice%20Guys%20Finish%20Last.zip",
+      "charter": "Harmonix",
+      "album": "Nimrod",
+      "genre": "Punk Rock",
+      "year": "1997"
+    },
+    {
+      "title": "Peacemaker",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Peacemaker.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Pulling Teeth",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Pulling%20Teeth.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Restless Heart Syndrome",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Restless%20Heart%20Syndrome.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Sassafrass Roots",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Sassafrass%20Roots.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "See the Light",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20See%20the%20Light.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "She",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20She.zip",
+      "charter": "Harmonix",
+      "album": "Dookie",
+      "genre": "Punk Rock",
+      "year": "1994"
+    },
+    {
+      "title": "Song of the Century",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Song%20of%20the%20Century.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "The Static Age",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20The%20Static%20Age.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "¿Viva la Gloria? (Little Girl)",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Viva%20la%20Gloria%20%28Little%20Girl%29.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Wake Me Up When September Ends",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Wake%20Me%20Up%20When%20September%20Ends.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "Warning",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Warning.zip",
+      "charter": "Harmonix",
+      "album": "Warning",
+      "genre": "Punk Rock",
+      "year": "2000"
+    },
+    {
+      "title": "Whatsername",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20Whatsername.zip",
+      "charter": "Harmonix",
+      "album": "American Idiot",
+      "genre": "Punk Rock",
+      "year": "2004"
+    },
+    {
+      "title": "¡Viva La Gloria!",
+      "artist": "Green Day",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Green%20Day%20-%20%C2%A1Viva%20la%20Gloria%21.zip",
+      "charter": "Harmonix",
+      "album": "21st Century Breakdown",
+      "genre": "Punk Rock",
+      "year": "2009"
+    },
+    {
+      "title": "Estranged",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Estranged.zip",
+      "charter": "d3mongorrian",
+      "album": "Use Your Illusion II",
+      "genre": "Rock",
+      "year": "1991"
+    },
+    {
+      "title": "Nightrain",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Nightrain.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Appetite for Destruction",
+      "genre": "Rock",
+      "year": "1987"
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Sweet%20Child%20O%27%20Mine.zip",
+      "charter": "farottone",
+      "album": "Appetite for Destruction",
+      "genre": "Rock",
+      "year": "1987"
+    },
+    {
+      "title": "Used to Love Her",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Used%20to%20Love%20Her.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "GN'R Lies",
+      "genre": "Rock",
+      "year": "1988"
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "artist": "Guns N' Roses",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Guns%20N%27%20Roses%20-%20Welcome%20to%20the%20Jungle.zip",
+      "charter": "FFtoRB",
+      "album": "Appetite for Destruction",
+      "genre": "Rock",
+      "year": "1987"
+    },
+    {
       "title": "Graveyard Shift",
       "artist": "Gurney",
       "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Gurney%20-%20Graveyard%20Shift.zip",
@@ -1287,6 +2251,78 @@
       "year": "2006"
     },
     {
+      "title": "Bad",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Bad.zip",
+      "charter": "farottone",
+      "album": "Bad",
+      "genre": "Pop-Rock",
+      "year": "1987"
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Billie%20Jean.zip",
+      "charter": "farottone",
+      "album": "Thriller",
+      "genre": "Pop-Rock",
+      "year": "1982"
+    },
+    {
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Dirty%20Diana.zip",
+      "charter": "farottone",
+      "album": "Bad",
+      "genre": "Pop-Rock",
+      "year": "1987"
+    },
+    {
+      "title": "P.Y.T. (Pretty Young Thing)",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20P.Y.T.%20%28Pretty%20Young%20Thing%29.zip",
+      "charter": "farottone",
+      "album": "Thriller",
+      "genre": "Pop-Rock",
+      "year": "1982"
+    },
+    {
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Smooth%20Criminal.zip",
+      "charter": "farottone",
+      "album": "Bad",
+      "genre": "Pop-Rock",
+      "year": "1987"
+    },
+    {
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20The%20Way%20You%20Make%20Me%20Feel.zip",
+      "charter": "farottone",
+      "album": "Bad",
+      "genre": "Pop-Rock",
+      "year": "1987"
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Thriller.zip",
+      "charter": "farottone",
+      "album": "Thriller",
+      "genre": "Pop-Rock",
+      "year": "1982"
+    },
+    {
+      "title": "Wanna Be Startin' Somethin'",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Michael%20Jackson%20-%20Wanna%20Be%20Startin%27%20Somethin%27.zip",
+      "charter": "farottone",
+      "album": "Thriller",
+      "genre": "Pop-Rock",
+      "year": "1982"
+    },
+    {
       "title": "Guitar Hero",
       "artist": "Monkey Steals The Peach",
       "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Monkey%20Steals%20the%20Peach%20-%20Guitar%20Hero.zip",
@@ -1294,6 +2330,24 @@
       "album": "Guitar Hero",
       "genre": "Rock",
       "year": "2005"
+    },
+    {
+      "title": "Endless, Nameless",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Endless%2C%20Nameless.zip",
+      "charter": "highfine",
+      "album": "Nevermind",
+      "genre": "Indie Rock",
+      "year": "1991"
+    },
+    {
+      "title": "Milk It",
+      "artist": "Nirvana",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/Nirvana%20-%20Milk%20It.zip",
+      "charter": "AJFOne23, SrMoog",
+      "album": "In Utero",
+      "genre": "Rock",
+      "year": "1993"
     },
     {
       "title": "Kicked To The Curb",
@@ -1393,6 +2447,69 @@
       "album": "Last Known Address",
       "genre": "Alternative Rock",
       "year": "2006"
+    },
+    {
+      "title": "All Down the Line",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20All%20Down%20the%20Line.zip",
+      "charter": "mrcoupdetat",
+      "album": "Exile On Main Street",
+      "genre": "Rock",
+      "year": "1972"
+    },
+    {
+      "title": "Beast of Burden",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Beast%20of%20Burden.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Some Girls",
+      "genre": "Rock",
+      "year": "1978"
+    },
+    {
+      "title": "Honky Tonk Women",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Honky%20Tonk%20Women.zip",
+      "charter": "Spindoctor6969",
+      "album": "Through the Past, Darkly (Big Hits Vol. 2)",
+      "genre": "Rock",
+      "year": "1969"
+    },
+    {
+      "title": "Let It Bleed",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Let%20It%20Bleed.zip",
+      "charter": "mrcoupdetat",
+      "album": "Let It Bleed",
+      "genre": "Rock",
+      "year": "1969"
+    },
+    {
+      "title": "Miss You",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Miss%20You.zip",
+      "charter": "Nunchuk & Sygenysis",
+      "album": "Some Girls",
+      "genre": "Rock",
+      "year": "1978"
+    },
+    {
+      "title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Paint%20It%2C%20Black.zip",
+      "charter": "TrojanNemo",
+      "album": "Aftermath",
+      "genre": "Rock",
+      "year": "1966"
+    },
+    {
+      "title": "Tumbling Dice",
+      "artist": "The Rolling Stones",
+      "url": "https://raw.githubusercontent.com/BaneDDC/Rythym-Game/main/The%20Rolling%20Stones%20-%20Tumbling%20Dice.zip",
+      "charter": "Yaniv297",
+      "album": "Exile On Main Street",
+      "genre": "Rock",
+      "year": "1972"
     },
     {
       "title": "Even Rats",
